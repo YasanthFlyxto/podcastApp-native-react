@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     marginVertical: 20,
   },
   heading2: {
-    fontSize: 23,
+    fontSize: 22,
     fontWeight: 'regular',
     textAlign: 'center',
     marginBottom: 30,
